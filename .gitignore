@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated eval reports
+reports/
+
+# Editor settings
+.vscode/
